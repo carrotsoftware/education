@@ -185,6 +185,10 @@
 
 Описан в [Экспорт шаблона из проекта UE4](https://carrotsoftware.github.io/docs/4062/#/workflow?id=Экспорт-шаблона-из-проекта-ue4).
 
+#### 2.2.4 Дополненная реальность (AR) с Unreal Engine
+
+Описано в [Дополненная реальность (AR) с Unreal Engine](https://carrotsoftware.github.io/docs/4062/#/examples?id=%d0%94%d0%be%d0%bf%d0%be%d0%bb%d0%bd%d0%b5%d0%bd%d0%bd%d0%b0%d1%8f-%d1%80%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d1%81%d1%82%d1%8c-ar-%d1%81-unreal-engine)
+
 ## 3. Работа с Multi-User
 
 Описано в [официальной документации Unreal Engine](https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/MultiUserEditing/QuickStart/).
