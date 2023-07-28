@@ -3,7 +3,7 @@
 
 ### 1.1 Создание схемы
 
-Описан в [AR с использованием UE4](https://carrotsoftware.github.io/docs/4062/#/workflow?id=ar-с-использованием-ue4).
+Описан в [Дополненная реальность (AR) с Unreal Engine](https://carrotsoftware.github.io/docs/4062/#/examples?id=Дополненная-реальность-ar-с-unreal-engine).
 
 ### 1.2 Подготовка проекта
 
